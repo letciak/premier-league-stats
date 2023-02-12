@@ -9,7 +9,7 @@ Base de dados do atual campeonato de futebol inglês, o intuito desse projeto é
 </p>
 
 <p align="center">
-Realizado a estrutura do banco de dados e, a cada rodada, será realizado 'update' dos dados, e ao desenvolvimento do projeto será feito o 'insert' dos dados faltantes.
+Realizado a estrutura do banco de dados e, a cada rodada, será realizado 'update' dos dados, e ao longo do desenvolvimento do projeto será feito o 'insert' dos dados faltantes.
 </p>
 
 
